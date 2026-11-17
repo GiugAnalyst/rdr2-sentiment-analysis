@@ -1,0 +1,25 @@
+entity_name,mention_count,avg_sentiment,sentiment_std,min_sentiment,max_sentiment,polarization_raw,polarization_per_mention,low_confidence
+Fatherhood and Other Dreams,21,0.002099999999999996,0.7779249995982903,-0.9877,0.9983,16.336424991564098,0.7779249995982903,False
+American Venom,11,0.41765454545454544,0.5536552399528724,-0.5423,0.9979,6.090207639481596,0.5536552399528724,True
+Red Dead Redemption II,7,0.4307142857142857,0.6807621131951342,-0.8555,0.9995,4.765334792365939,0.6807621131951342,True
+Blessed Are the Peacemakers,6,0.6173,0.4826137627544411,0.0,0.9948,2.8956825765266467,0.4826137627544411,True
+A Fine Night for it,4,-0.252,0.8945963819883616,-0.9972,0.8797,3.578385527953446,0.8945963819883616,True
+Our Best Selves,2,0.81795,0.10330830073135461,0.7449,0.891,0.20661660146270922,0.10330830073135461,True
+Red Dead Redemption,2,0.9574,0.0504874241767195,0.9217,0.9931,0.100974848353439,0.0504874241767195,True
+Icarus and Friends,2,0.1372,0.4801255044256658,-0.2023,0.4767,0.9602510088513316,0.4801255044256658,True
+That's Murfree Country,1,-0.5719,,-0.5719,-0.5719,,,True
+A Fisher of Fish,1,0.0,,0.0,0.0,,,True
+The Widow of Willard's Rest,1,0.0,,0.0,0.0,,,True
+The Sheep and the Goats,1,0.0,,0.0,0.0,,,True
+"Enter, Pursued by a Memory",0,,,,,,,True
+A Short Walk in a Pretty Town,0,,,,,,,True
+Our Mutual Friend,0,,,,,,,True
+Where the Broken Souls Live,0,,,,,,,True
+Hell Hath No Fury,0,,,,,,,True
+"Angelo Bronte, a Man of Honor",0,,,,,,,True
+"Advertising, the New American Art",0,,,,,,,True
+"Banking, the Old American Art",0,,,,,,,True
+Urban Pleasures,0,,,,,,,True
+Preaching Forgiveness as He Went,0,,,,,,,True
+Money Lending and Other Sins VI,0,,,,,,,True
+"Polite Society, Valentine Style",0,,,,,,,True

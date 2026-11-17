@@ -1,0 +1,6 @@
+patch_date,description,reviews_in_window,avg_sentiment_in_window,baseline_avg_sentiment,sentiment_delta
+2019-11-05,PC launch,0,,0.6297872,
+2019-12-13,Post-launch stability patch,52,0.6285615384615384,0.6298088195386703,-0.001247281077131901
+2020-02-01,Bounty Hunter update / Frontier Pursuits,14,0.06282857142857141,0.6324454119223041,-0.5696168404937326
+2021-07-13,Blood Money update,18,0.5059277777777778,0.6305348423876592,-0.12460706460988147
+2023-08-15,Steam Deck compatibility / performance patch,15,0.76582,0.6291036180904522,0.1367163819095477
