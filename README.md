@@ -119,3 +119,5 @@ The APIs return live data, so a new run will collect different reviews and comme
 ## Tools
 
 Python (pandas, requests, vaderSentiment, pytrends, matplotlib, python-dotenv) · Jupyter · Power BI · PowerPoint
+
+View the interactive report: https://app.powerbi.com/view?r=eyJrIjoiZmE0YmFiOTAtODE2Yi00MDZhLWFkNzYtZTc3NDRjY2M1YWNmIiwidCI6Ijg0MDAyOWEzLTc5ZmYtNDBmZS1hZGYyLTk4MTZmY2JmYzc2NyIsImMiOjh9
