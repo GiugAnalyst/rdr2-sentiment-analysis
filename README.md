@@ -1,3 +1,5 @@
+**[View the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZmE0YmFiOTAtODE2Yi00MDZhLWFkNzYtZTc3NDRjY2M1YWNmIiwidCI6Ijg0MDAyOWEzLTc5ZmYtNDBmZS1hZGYyLTk4MTZmY2JmYzc2NyIsImMiOjh9)**
+
 # Red Dead Redemption 2: Sentiment Analysis
 
 What players loved, hated, and argued about in Red Dead Redemption 2, and how its reception compares to GTA V. The project combines Steam reviews, YouTube comments, and engagement data in a Python pipeline (sentiment scoring and entity matching), with results presented in a Power BI report and a slide deck.
@@ -119,5 +121,3 @@ The APIs return live data, so a new run will collect different reviews and comme
 ## Tools
 
 Python (pandas, requests, vaderSentiment, pytrends, matplotlib, python-dotenv) · Jupyter · Power BI · PowerPoint
-
-View the interactive report: https://app.powerbi.com/view?r=eyJrIjoiZmE0YmFiOTAtODE2Yi00MDZhLWFkNzYtZTc3NDRjY2M1YWNmIiwidCI6Ijg0MDAyOWEzLTc5ZmYtNDBmZS1hZGYyLTk4MTZmY2JmYzc2NyIsImMiOjh9
